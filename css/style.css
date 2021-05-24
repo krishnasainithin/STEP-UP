@@ -179,6 +179,7 @@ form{
     width: 20rem;
     padding: 5% 15%;
     font-size: 1rem;
+    border-radius: 10px;
 }
 
 
@@ -254,6 +255,7 @@ form{
         width:65%;
         padding: 5% 10%;
         font-size: 1rem;
+        border-radius: 10px;
     }
 
 }
